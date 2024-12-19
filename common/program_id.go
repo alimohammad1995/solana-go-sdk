@@ -16,4 +16,5 @@ var (
 	AddressLookupTableProgramID        = PublicKeyFromString("AddressLookupTab1e1111111111111111111111111")
 	Token2022ProgramID                 = PublicKeyFromString("TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb")
 	BPFLoaderUpgradeableProgramID      = PublicKeyFromString("BPFLoaderUpgradeab1e11111111111111111111111")
+	NativeMint                         = PublicKeyFromString("So11111111111111111111111111111111111111112")
 )
